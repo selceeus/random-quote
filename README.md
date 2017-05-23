@@ -1,2 +1,2 @@
-# treehouse-random-quote
-Random Quote Generator Project from Full-stack Javascript Techdegree
+# Random-Quote
+Random Quote Generator Project javascript project
